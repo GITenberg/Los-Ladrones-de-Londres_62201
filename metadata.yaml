@@ -1,0 +1,34 @@
+_repo: Los-Ladrones-de-Londres_62201
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: y C.
+    gutenberg_agent_id: '51824'
+    url: http://www.gutenberg.org/2009/agents/51824
+  - agent_name: J, J.
+    gutenberg_agent_id: '51823'
+    url: http://www.gutenberg.org/2009/agents/51823
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2020-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62201'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Los Ladrones de Londres
+url: http://www.gutenberg.org/ebooks/62201
