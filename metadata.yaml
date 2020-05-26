@@ -1,5 +1,5 @@
 _repo: Los-Ladrones-de-Londres_62201
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: y C.
@@ -8,6 +8,9 @@ contributor:
   - agent_name: J, J.
     gutenberg_agent_id: '51823'
     url: http://www.gutenberg.org/2009/agents/51823
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62201#Los-Ladrones-de-Londres
 gutenberg_issued: '2020-05-23'
 gutenberg_type: Text
 identifiers:
